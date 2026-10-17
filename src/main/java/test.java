@@ -5,5 +5,7 @@ public class test {
         System.out.println("Hello git!");
         System.out.println("Hello git!");
         System.out.println("Hello git!");
+        System.out.println("hot-fix-update");
+
     }
 }
